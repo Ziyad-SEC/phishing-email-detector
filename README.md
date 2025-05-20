@@ -1,11 +1,17 @@
-# Phishing Email Detector v1.0
+# 🛡️ Phishing Email Detector with Auto-Quarantine
 
-A simple Python tool that detects phishing phrases in email content and automatically quarantines suspicious messages.
+This project analyzes incoming email text to detect phishing threats using rule-based logic.
 
-## 🔒 Features
-- Phrase-based phishing detection
-- Auto quarantine into log file
-- Easy to expand and customize
+## Features
+- Detects suspicious phrases and URLs
+- Flags high-risk keywords
+- Designed to evolve with ML integration in future versions
 
-## 🚀 Version
-This is version 1.0 — detection based on common suspicious phrases.
+## Built With
+- Python 3.x
+- Basic security rules
+- Future: IMAP integration, Auto-quarantine folder, Web GUI
+
+## Status
+🚧 Version 1.0 — Core detection rules implemented
+
