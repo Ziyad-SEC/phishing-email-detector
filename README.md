@@ -15,3 +15,7 @@ This project analyzes incoming email text to detect phishing threats using rule-
 ## Status
 🚧 Version 1.0 — Core detection rules implemented
 
+## 📄 White Paper
+
+Check out the detailed white paper for this project:  
+👉 [Download White Paper (PDF)](Phishing-Detector-Whitepaper-v1.pdf)
